@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "name": "Calza Hibis",
+    "price": 9850,
+    "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/297/608/products/outfit-hibis-verde-top-kata-y-calza-larga-121-de4114f56ec2da87be16842501098941-640-0.webp",
+    "description": "Calza de tiro alto. Lycra super soft. Alta compresión. Talles del 1 al 6.",
+    "stock": 15,
+    "category": "bottom"
+  },
+  {
+    "id": 1,
+    "name": "Biker Pink",
+    "price": 6980,
+    "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/188/678/products/calza-biker-corta-rosa-tiro-alto-mujer-biker-cereza-tienda-online-yage-sportswear21-bb59aad5075fa6a53416672446553796-640-0.webp",
+    "description": "Biker de algodón. Tiro alto. Lycra super flex. Talles del 1 al 6.",
+    "stock": 15,
+    "category": "bottom"
+  },
+  {
+    "id": 2,
+    "name": "Hoodie Violet",
+    "price": 17430,
+    "image": "https://media.boohoo.com/i/boohoo/bmm02667_purple_xl/?qlt=80&fmt=auto",
+    "description": "Super comodo. Unisex. Frizado. Talles del XS al XL.",
+    "stock": 15,
+    "category": "top"
+  },
+  {
+    "id": 3,
+    "name": "Remera Camo",
+    "price": 6200,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_838556-MLA54104003386_032023-F.webp",
+    "description": "Tela Dry Fit. Varios colores. Secado rapido. Talles del XS al XL.",
+    "stock": 15,
+    "category": "top"
+  }
+]
